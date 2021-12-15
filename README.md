@@ -19,6 +19,7 @@ The Cloud Resume Challenge also helped me build upon other coding and DevOps ski
 - CI/CD (Backend): I need to set up GitHub Actions that will allow me to push and update to my Terraform or Python code and run Python tests. If the tests pass, the Terraform updates should deploy in AWS.
 - CI/CD (Frontend): I need to set up GitHub Actions so that when I push new website code (HTML and CSS), the S3 bucket will update automatically. This will also invalidate CloudFront cache.
 
+
 Here is my cloud resume: https://sebastianvanhemert.com/.
 
 Here is my Github Repository: https://github.com/svanhemert00?tab=repositories. I would appreciate feedback on how to improve my code.
