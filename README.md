@@ -10,7 +10,9 @@ The Cloud Resume Challenge also helped me build upon other coding and DevOps ski
 
 <h2>Obstacles:</h2>
 - Not knowing where to start: this obstacle actually benefits those who take on the challenge because it is not meant to be a step-by-step course that outlines everything out for you–that would make it too easy. Instead, the open-ended nature of the project forces you to research the best resources to learn from and determine how much effort you want to put into each step. For example, one can decide to either use a template for their website–thus, gaining a superficial grasp on how HTML works–or they can decide to develop the entire site from scratch. Overcoming this obstacle was tricky, but it was a matter of figuring out where it would be logical to start from and troubleshoot from there. Luckily, I also received guidance from my professor and feedback from members of the Cloud Resume Challenge’s online community.
+
 - Conceptualizing each service: the architecture of the cloud is complex, and I have a difficult time trying to understand how each action in the console works, how services interact, and why they are necessary. I deal with this sort of ‘cloud existentialism’ by studying off visualizations such as architectural diagrams before moving on to the next step. This has taught me that every step is vital. A prime example is how incorrectly setting up IAM users could cost your organization a fortune.
+
 - Writing this blog post: this was the ultimate challenge because putting your work into your own words exhibits the understanding of each step on a deeper level. Also, the goal of the Cloud Resume Challenge is to get hired in the cloud so writing a blog post is great interview prep.
 
 <h2>To-do List:</h2>
