@@ -14,10 +14,10 @@ The Cloud Resume Challenge also helped me build upon other coding and DevOps ski
 - Writing this blog post: this was the ultimate challenge because putting your work into your own words exhibits the understanding of each step on a deeper level. Also, the goal of the Cloud Resume Challenge is to get hired in the cloud so writing a blog post is great interview prep. <br>
 
 <h2>To-do List:</h2>
-- Testing: I need to develop Python tests for the Lambda function
-- Infrastructure as Code (IaC): I need to define and deploy my API resources (DynamoDB table, API Gateway, and Lambda function) with Terraform instead of manually through the AWS console. This will allow for faster updates.
-- CI/CD (Backend): I need to set up GitHub Actions that will allow me to push and update to my Terraform or Python code and run Python tests. If the tests pass, the Terraform updates should deploy in AWS.
-- CI/CD (Frontend): I need to set up GitHub Actions so that when I push new website code (HTML and CSS), the S3 bucket will update automatically. This will also invalidate CloudFront cache.
+- Testing: I need to develop Python tests for the Lambda function <br>
+- Infrastructure as Code (IaC): I need to define and deploy my API resources (DynamoDB table, API Gateway, and Lambda function) with Terraform instead of manually through the AWS console. This will allow for faster updates. <br>
+- CI/CD (Backend): I need to set up GitHub Actions that will allow me to push and update to my Terraform or Python code and run Python tests. If the tests pass, the Terraform updates should deploy in AWS. <br>
+- CI/CD (Frontend): I need to set up GitHub Actions so that when I push new website code (HTML and CSS), the S3 bucket will update automatically. This will also invalidate CloudFront cache. <br>
 
 <br>
 
