@@ -1,4 +1,4 @@
-# cloudresumechallenge-blogpost
+#Cloud Resume Challenge
 
 As the fall semester comes to an end, I am wrapping up Forrest Brazeal’s ‘Cloud Resume Challenge’. This is a project I have been working on for the second half of my Networking and Cloud Computing (ISBA 4798) class at Loyola Marymount University taught by Greg Lontok. This challenge aims to help people land a job in the cloud computing industry by giving them the framework to host their resume in the cloud. So far, it has helped dozens break into tech, and I hope to leverage my career with it too.
 
