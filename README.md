@@ -19,4 +19,4 @@ To-do List:
 
 Here is my cloud resume: https://sebastianvanhemert.com/.
 
-Here is my @Github Repository: https://github.com/svanhemert00?tab=repositories. I would appreciate feedback on how to improve my code.
+Here is my Github Repository: https://github.com/svanhemert00?tab=repositories. I would appreciate feedback on how to improve my code.
