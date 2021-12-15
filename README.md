@@ -1,5 +1,3 @@
-#Cloud Resume Challenge
-
 As the fall semester comes to an end, I am wrapping up Forrest Brazeal’s ‘Cloud Resume Challenge’. This is a project I have been working on for the second half of my Networking and Cloud Computing (ISBA 4798) class at Loyola Marymount University taught by Greg Lontok. This challenge aims to help people land a job in the cloud computing industry by giving them the framework to host their resume in the cloud. So far, it has helped dozens break into tech, and I hope to leverage my career with it too.
 
 Through this challenge, I have been able to understand key cloud computing concepts and learn how to use the following services and features in Amazon Web Services (AWS): Identity and Access Management (IAM), Multi-factor authentication (MFA), Amazon Elastic Compute Cloud (Amazon EC2), AWS Command Line Interface (AWS CLI), Elastic Load Balancer (ELB), Auto Scaling Group (ASG), Amazon S3, Relational/NoSQL Cloud Databases, AWS Route 53 for Domain Name System (DNS), AWS CloudFront, AWS Lambda, AWS API Gateway, and navigating the console.
